@@ -1,0 +1,16 @@
+# Environment variables for GAIM
+
+# YouTube Data API v3 Key
+YOUTUBE_API_KEY=your_youtube_api_key_here
+
+# Database Configuration (optional)
+DATABASE_PATH=gaim_database.db
+
+# Gemini API (Optional, for smarter keyword expansion)
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Quota controls for YouTube searches (server-side caps)
+# Max total search calls per request (keyword x language combinations processed)
+YT_MAX_SEARCH_CALLS_PER_REQUEST=10
+# Max number of languages to use per keyword during video search
+YT_MAX_LANGUAGES_PER_KEYWORD=1

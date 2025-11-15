@@ -1,0 +1,21 @@
+Welcome to GAIM 👋
+
+To start the app (no technical steps):
+
+1) Double‑click: Start GAIM.command
+   - If you see a security prompt on macOS, right‑click the file → Open → Open.
+
+2) Your browser will open automatically to the app.
+   - If it doesn't: go to http://localhost:5173/influencers?g=male
+
+3) When you’re done:
+   - Go to the terminal window that opened and press Ctrl + C
+
+One‑time setup (only if asked):
+- You might need to enter your YouTube API key:
+  1. Open the file named .env in the GAIM folder
+  2. Paste your key like this:
+     YOUTUBE_API_KEY=your_actual_api_key_here
+  3. Save the file and double‑click Start GAIM.command again
+
+That’s it. Enjoy! 🎉
