@@ -47,8 +47,7 @@ GAIM (Google AI-Managed Influencer Network) is a comprehensive platform that rev
 
 ### One-Command Setup
 ```bash
-git clone https://github.com/anubhav-77-dev/yt.git
-cd yt
+git clone https://github.com/p24prasun-collab/yt
 ```
 
 ### Environment Setup
